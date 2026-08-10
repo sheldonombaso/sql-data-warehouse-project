@@ -40,5 +40,5 @@ This project is licensed under the [MIT_License].(LICENSE)_. You are free to use
 
 ## About Me
 
-Hi there! I'm **Sheldon Ombaso** the Data Analyst. I'm a skilled data expert with expertise in Python,SQL and Business Intelligence tools such us Tableau and Power Bi. I enjoy transforming complex data into insights and creating interatcive dashboards that help drive decisions to real world problems. In addition to my analytical skills, I'm also certfied in Computer Networking, Microsoft Applications Development and Biometrics Access Control Systems. Feel free to contact me in any of the IT projects. - **sheldonombaso69@gmail.com** 
+Hi there! I'm **Sheldon Ombaso** the Data Analyst. I'm a skilled data expert with expertise in Python,SQL and Business Intelligence tools such us Tableau and Power Bi. I enjoy transforming complex data into insights and creating interatcive dashboards that help drive decisions to real world problems. In addition to my analytical skills, I'm also certfied in Computer Networking, Microsoft Applications Development and Biometrics Access Control Systems. Feel free to contact me at **sheldonombaso69@gmail.com** in any of the IT projects. 
 
