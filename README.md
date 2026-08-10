@@ -1,4 +1,4 @@
-#DATA WAREHOUSE & ANALYTICS PROJECT
+# DATA WAREHOUSE & ANALYTICS PROJECT
 
 Welcome to the Data Warehouse and Analytics solution, from building a data warehouse to generating actionabe insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics.
 
